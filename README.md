@@ -2,17 +2,6 @@
 CafeEmployeesDemo
 CafeEmployeesDemo is an ASP.NET Core Web API project that manages café employees, cafés, and employment relationships. It demonstrates CRUD operations, DTOs, EF Core, and API endpoints for a café management system.
 ________________________________________
-Table of Contents
-•	Features
-•	Technologies
-•	Project Structure
-•	Setup and Installation
-•	Database Configuration
-•	Running the Project
-•	API Endpoints
-•	Testing
-•	Swagger Documentation
-________________________________________
 Features
 •	Manage employees: create, read, update, delete.
 •	Manage cafés and employee-café assignments.
